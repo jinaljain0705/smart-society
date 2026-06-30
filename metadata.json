@@ -1,0 +1,6 @@
+{
+  "name": "Smart Society",
+  "description": "Comprehensive digital platform to manage residents, visitors, maintenance, facility bookings, complaints, notices, polls, and billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
